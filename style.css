@@ -39,6 +39,7 @@ img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    transform: rotateX(-30deg);
 }
 h3{
     color: #313B92;
